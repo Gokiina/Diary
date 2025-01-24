@@ -12,7 +12,8 @@
 
 </div> 
 <div>
-	<h3><a href="###" target="_blank">Código</a></h3>
+	<h3><a href="https://github.com/Gokiina/DiaryFrontend" target="_blank">Frontend</a></h3>
+	<h3><a href="https://github.com/Gokiina/DiaryFrontend" target="_blank">Backend</a></h3>
   <p>Próximamente</p>
 
 
